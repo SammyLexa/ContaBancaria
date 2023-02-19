@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Usuário\Desktop\Banco do Brazil\.metadata\.plugins\org.eclipse.jdt.core
+2165587209.index
+1157007601.index
+1865797976.index
